@@ -28,7 +28,7 @@ Buen proyecto!:
 ### Uso de la herramienta de TRELLO
 Esta herramienta me ayudo bastante para poder organizarme de principio a fin dar un comienso a mi proyecto y paso a paso lo pude concluir.
 <p align="center" >
-       <img width="300" heigth="200" src="https://trello.com/b/izne6GXx/el-ahorcado">
+       <img width="300" heigth="200" src="images/trello">
 </p>
 
 
