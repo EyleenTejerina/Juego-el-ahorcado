@@ -1,11 +1,4 @@
-# Challenge ONE | Lógica de Programación - Juego del Ahorcado
-
-<p align="center" >
-       <img width="300" heigth="200" src="https://user-images.githubusercontent.com/101413385/189891119-63add614-e14f-4087-b013-0423566343de.png">
-</p>
-
 ### ¡Bienvenido al del Juego del Ahorcado! 
-### Bienvenidos y Bienvenidas a nuestro segundo desafío!
 
 En este juego del ahorcado jugaremos y pondré a prueba mis conocimientos que obtuve a lo largo de esta formación Principiante en Programación y los requisitos de este desafío fueron los siguientes.
 
@@ -37,5 +30,7 @@ Esta herramienta me ayudo bastante para poder organizarme de principio a fin dar
 <p align="center" >
        <img width="300" heigth="200" src="https://trello.com/b/izne6GXx/el-ahorcado">
 </p>
+
+
 
 
